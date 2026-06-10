@@ -1,6 +1,6 @@
 # 🗃️ XMA Eve Filter — *hide anti-Eve mods from search*
 
-Tired of searching [XIV Mod Archive](https://www.xivmodarchive.com) (XMA) for `"eve"` and getting buried in irrelevant mods that mention Eve only to say *"no Eve ports allowed"*? This userscript greys those out (or hides them entirely) automatically, so you only see mods that actually support Eve.
+Tired of searching [XIV Mod Archive](https://www.xivmodarchive.com) (XMA) for `"eve"` and getting buried in irrelevant mods that mention Eve only to say *"no Eve ports allowed"*? This userscript greys out (or hides) those mods automatically, so you only see mods that actually support Eve!
 
 ## 🙈 What it does
 
@@ -8,6 +8,7 @@ Tired of searching [XIV Mod Archive](https://www.xivmodarchive.com) (XMA) for `"
 - Greys out mods whose description excludes Eve *(e.g. "no Eve", "except Eve", "do not port to Eve", bulleted body blocklists, etc.)*
 - Keeps mods made for Eve — *can optionally ignore non-gear mods (hair, minions, etc.) since their Eve stance doesn't affect a gear search (tweakable)*
 - Supports an author whitelist (always show) and blacklist (always hide)
+- - Comes with built in exhaustive whitelist and blacklist as of the last commit
 
 ## 💽 Install
 
