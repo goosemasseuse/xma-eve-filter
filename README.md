@@ -8,7 +8,7 @@ Tired of searching [XIV Mod Archive](https://www.xivmodarchive.com) (XMA) for `"
 - Greys out mods whose description excludes Eve *(e.g. "no Eve", "except Eve", "do not port to Eve", bulleted body blocklists, etc.)*
 - Keeps mods made for Eve — *can optionally ignore non-gear mods (hair, minions, etc.) since their Eve stance doesn't affect a gear search (tweakable)*
 - Supports an author whitelist (always show) and blacklist (always hide)
-- - Comes with built in exhaustive whitelist and blacklist as of the last commit
+- Comes with built in exhaustive whitelist and blacklist as of the last commit
 
 ## 💽 Install
 
