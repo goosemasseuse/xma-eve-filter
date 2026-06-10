@@ -10,6 +10,8 @@
 // @grant        GM_getValue
 // @connect      xivmodarchive.com
 // @run-at       document-idle
+// @updateURL   https://raw.githubusercontent.com/goosemasseuse/xma-eve-filter/main/xma-eve-filter.user.js
+// @downloadURL https://raw.githubusercontent.com/goosemasseuse/xma-eve-filter/main/xma-eve-filter.user.js
 // ==/UserScript==
 
 (function() {
