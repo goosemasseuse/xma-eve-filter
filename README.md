@@ -33,7 +33,8 @@ I'd recommend not messing with it unless you understand what you're doing, but y
 ## ℹ️ Good to know
 
 - It dims rather than deletes by default, so you can spot-check it
-- It caches results, so repeat searches are fast and it stays light on the site
+- It caches results, so repeat searches are fast and it stays light on the site, we want to be good neighbours
+- Any mods with authors on the whitelist or blacklist are automatically filtered without an additional background fetch and mod description check - for the sake of efficiency and good neighbourliness to XMA
 - ⚠️ **Updating overwrites your edits** — if you customise the lists, keep a copy of your additions to re-paste after an update
 - It's not perfect — a few oddly-worded ones may slip through *(just blacklist that author)*, and if a good Eve mod ever gets wrongly greyed, drop the author in the whitelist
 
