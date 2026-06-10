@@ -24,11 +24,11 @@ I'd recommend not messing with it unless you understand what you're doing, but y
 
 | Setting | What it does |
 |---|---|
+| `REMOVE` | `true` deletes flagged cards entirely instead of dimming them *(default `false`)* |
 | `AUTHOR_WHITELIST` | Eve creators to **always show**. Add a name exactly as it appears after "By:" on the mod card, in quotes, e.g. `'Nyaughty',` |
 | `AUTHOR_BLACKLIST` | Known anti-Eve authors to **hide instantly**. Same format. |
-| `REMOVE` | `true` deletes flagged cards entirely instead of dimming them *(default `false`)* |
 | `GEAR_ONLY` | `false` (default) filters every mod type; `true` only filters gear mods |
-| `ENABLE_AUTHOR_BLACKLIST` / `ENABLE_PATTERN_BLOCKING` | Leave both on; flip either to `false` to turn that part off while testing |
+| `ENABLE_AUTHOR_BLACKLIST` / `ENABLE_PATTERN_BLOCKING` | should both remain on; flip either to `false` to turn that part off in special cases, note that this will weaken filtering |
 
 ## ℹ️ Good to know
 
