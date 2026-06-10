@@ -2,7 +2,7 @@
 // @author       goosemasseuse a.k.a. Foxxy
 // @name         XMA Eve Filter
 // @namespace    xma-eve-filter
-// @version      1.0
+// @version      1.0.1
 // @description  Hide xivmodarchive results that exclude the Eve body; keep ones made for it
 // @match        https://www.xivmodarchive.com/search*
 // @match        https://www.xivmodarchive.com/
@@ -88,14 +88,7 @@
     	'\\(^w^)/ Miku \\(^w^)/',
 		'zaushka',
 		'⚠ Eʀʀᴏʀ ― G0TH',
-		'',
-		'',
-		'',
-		'',
-		'',
-		'',
-		'',
-		// 'Another Trusted Creator',
+		// 'A Trusted Author Name',
 	];
 
 	// Known anti-Eve authors — hidden instantly, no page fetch. Same format.
@@ -185,7 +178,7 @@
 		'Yuki',
 		'zephyr.mods',
     	'♱𝖣𝖤𝖠𝖳𝖧𝖬𝖮𝖳𝖧♱',
-		// 'Some Author Name',
+		// 'Some Hostile Author Name',
 	];
 
 	// Only filter out gear mods? false = filter every type (hair, minion, etc.).
