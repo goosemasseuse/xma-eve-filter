@@ -21,7 +21,7 @@ Installed this way, it updates itself automatically when a new version is publis
 
 ## 🔧 Tweaking it — *(optional)*
 
-I'd recommend not messing with it unless you understand what you're doing, but you're free to, by editing these values at the top of the script:
+I'd recommend not messing with it unless you understand what you're doing, but you're free to do so if you wish, by editing these values at the top of the script after you've installed it in your Tampermonkey scripts:
 
 | Setting | What it does |
 |---|---|
