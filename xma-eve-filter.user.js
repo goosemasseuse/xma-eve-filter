@@ -1,4 +1,5 @@
 // ==UserScript==
+// @author       goosemasseuse a.k.a. Foxxy
 // @name         XMA Eve Filter
 // @namespace    xma-eve-filter
 // @version      1.0
