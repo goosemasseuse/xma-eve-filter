@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         XMA Eve Filter
 // @namespace    xma-eve-filter
-// @version      1.0.1
+// @version      1.0.2
 // @author       goosemasseuse a.k.a. Foxxy
 // @description  Hide xivmodarchive results that exclude the Eve body; keep ones made for it
 // @match        https://www.xivmodarchive.com/search*
