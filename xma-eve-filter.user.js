@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         XMA Eve Filter
 // @namespace    xma-eve-filter
-// @version      1.0.2
+// @version      1.0.3
 // @author       goosemasseuse a.k.a. Foxxy
 // @description  Hide xivmodarchive results that exclude the Eve body; keep ones made for it
 // @match        https://www.xivmodarchive.com/search*
@@ -53,6 +53,7 @@
 		'JadedFawx',
 		'juvei1647',
 		'Karlam3D',
+		'Kiki',
 		'Liberty',
     	'Lua',
 		'Midori',
@@ -120,6 +121,7 @@
 		'Dak\'kon Blackblade',
     	'dalamudred',
 		'dia',
+		'Dogg',
 		'einherjars',
 		'Euphoria Mods',
 		'existench',
@@ -154,6 +156,7 @@
 		'Lux | Huria',
 		'miffy.uwu',
 		'MilkBunMods',
+		'Milla',
 		'Millwood',
     	'Morii ୨୧',
     	'My\'rie',
